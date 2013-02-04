@@ -1,0 +1,5 @@
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\DoubleLinkedList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.exe
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\DoubleLinkedList\obj\x86\Debug\DoubleLinkedList.pdb

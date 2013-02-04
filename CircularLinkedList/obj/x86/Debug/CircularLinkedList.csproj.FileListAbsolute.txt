@@ -1,0 +1,5 @@
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\bin\Debug\CircularLinkedList.exe
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\bin\Debug\CircularLinkedList.pdb
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\obj\x86\Debug\CircularLinkedList.exe
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\obj\x86\Debug\CircularLinkedList.pdb

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ffbb9598-690f-481a-bb06-7943489b418c" name="ABaczyk@ABACZYK 2013-01-29 13:39:53" runUser="DCI\ABaczyk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="77597913-2622-4228-97d5-b11d46f6b770">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ABaczyk_ABACZYK 2013-01-29 13_39_53">
+      <DeploymentItem filename="C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\bin\Debug\CircularLinkedList.exe" />
+      <DeploymentItem filename="C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\bin\Debug\LinkedLists.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-01-29T13:39:53.2941327-05:00" queuing="2013-01-29T13:39:53.3911327-05:00" start="2013-01-29T13:39:53.3961327-05:00" finish="2013-01-29T13:39:53.8731327-05:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="11" executed="11" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="6" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AddNewNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe">
+      <Execution id="b038d947-2893-48b4-8cbc-58da441618d9" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddNewNodeTest" />
+    </UnitTest>
+    <UnitTest name="PrintNodesTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\circularlinkedlisttest\bin\debug\circularlinkedlisttest.dll" id="6f985394-6733-7a8a-f4eb-d40fd73efb3c">
+      <Execution id="947cba7a-6738-45e2-915a-185fe87410a7" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/CircularLinkedListTest/bin/Debug/CircularLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CircularLinkedListTest.CircularLinkedListTest, CircularLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PrintNodesTest" />
+    </UnitTest>
+    <UnitTest name="CircularLinkedListConstructorTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\circularlinkedlisttest\bin\debug\circularlinkedlisttest.dll" id="74dcc197-f2d1-d2d5-adb4-2b8ee2d879ce">
+      <Execution id="54026cdf-1415-42f2-b3b0-03dac0b4a83b" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/CircularLinkedListTest/bin/Debug/CircularLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CircularLinkedListTest.CircularLinkedListTest, CircularLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CircularLinkedListConstructorTest" />
+    </UnitTest>
+    <UnitTest name="FindNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="fb0fc586-be16-4463-8126-15255a51b0a4">
+      <Execution id="1a383924-d175-4d48-8c9b-2e1a9786ff20" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindNodeTest" />
+    </UnitTest>
+    <UnitTest name="RemoveNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\circularlinkedlisttest\bin\debug\circularlinkedlisttest.dll" id="3cbfce5a-27e6-b41a-4c4c-bd048e8b7cbc">
+      <Execution id="e2da698d-2091-426a-8aa2-a709f798c2bd" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/CircularLinkedListTest/bin/Debug/CircularLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CircularLinkedListTest.CircularLinkedListTest, CircularLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveNodeTest" />
+    </UnitTest>
+    <UnitTest name="CircularLinkedListConstructorTest1" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\circularlinkedlisttest\bin\debug\circularlinkedlisttest.dll" id="1c122288-4420-2cd0-5ae2-1e9940760537">
+      <Execution id="3713c54b-1872-428a-b9a9-9cb2f2571dfe" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/CircularLinkedListTest/bin/Debug/CircularLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CircularLinkedListTest.CircularLinkedListTest, CircularLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CircularLinkedListConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="FindNodesTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\circularlinkedlisttest\bin\debug\circularlinkedlisttest.dll" id="9042428e-bcbd-7b38-798d-69432b9419e2">
+      <Execution id="ad0ca956-df55-4fc7-997a-49505c82ca3d" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/CircularLinkedListTest/bin/Debug/CircularLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CircularLinkedListTest.CircularLinkedListTest, CircularLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindNodesTest" />
+    </UnitTest>
+    <UnitTest name="RemoveNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4">
+      <Execution id="9660ed62-cede-4d57-9265-117ad921af6b" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveNodeTest" />
+    </UnitTest>
+    <UnitTest name="AddNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\circularlinkedlisttest\bin\debug\circularlinkedlisttest.dll" id="5bedd1c0-683d-7e54-e177-c1abaabe6e4a">
+      <Execution id="b1313dbf-4ca1-41db-b91c-89ea3efcd4ce" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/CircularLinkedListTest/bin/Debug/CircularLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CircularLinkedListTest.CircularLinkedListTest, CircularLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddNodeTest" />
+    </UnitTest>
+    <UnitTest name="SingleLinkedListConstructorTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c">
+      <Execution id="b813c1b6-da5b-4c7f-9bda-4418b10ec868" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SingleLinkedListConstructorTest" />
+    </UnitTest>
+    <UnitTest name="SingleLinkedListConstructorTest1" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf">
+      <Execution id="8b8551e5-fe72-4a89-8477-c776098e1e0e" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SingleLinkedListConstructorTest1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1c122288-4420-2cd0-5ae2-1e9940760537" executionId="3713c54b-1872-428a-b9a9-9cb2f2571dfe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4" executionId="9660ed62-cede-4d57-9265-117ad921af6b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe" executionId="b038d947-2893-48b4-8cbc-58da441618d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3cbfce5a-27e6-b41a-4c4c-bd048e8b7cbc" executionId="e2da698d-2091-426a-8aa2-a709f798c2bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bedd1c0-683d-7e54-e177-c1abaabe6e4a" executionId="b1313dbf-4ca1-41db-b91c-89ea3efcd4ce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f985394-6733-7a8a-f4eb-d40fd73efb3c" executionId="947cba7a-6738-45e2-915a-185fe87410a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74dcc197-f2d1-d2d5-adb4-2b8ee2d879ce" executionId="54026cdf-1415-42f2-b3b0-03dac0b4a83b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9042428e-bcbd-7b38-798d-69432b9419e2" executionId="ad0ca956-df55-4fc7-997a-49505c82ca3d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf" executionId="8b8551e5-fe72-4a89-8477-c776098e1e0e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c" executionId="b813c1b6-da5b-4c7f-9bda-4418b10ec868" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb0fc586-be16-4463-8126-15255a51b0a4" executionId="1a383924-d175-4d48-8c9b-2e1a9786ff20" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3713c54b-1872-428a-b9a9-9cb2f2571dfe" testId="1c122288-4420-2cd0-5ae2-1e9940760537" testName="CircularLinkedListConstructorTest1" computerName="ABACZYK" duration="00:00:00.0229945" startTime="2013-01-29T13:39:53.4021327-05:00" endTime="2013-01-29T13:39:53.5811327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3713c54b-1872-428a-b9a9-9cb2f2571dfe">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at CircularLinkedListTest.CircularLinkedListTest.CircularLinkedListConstructorTest1() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\CircularLinkedListTest.cs:line 85
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9660ed62-cede-4d57-9265-117ad921af6b" testId="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4" testName="RemoveNodeTest" computerName="ABACZYK" duration="00:00:00.0123692" startTime="2013-01-29T13:39:53.5831327-05:00" endTime="2013-01-29T13:39:53.7571327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9660ed62-cede-4d57-9265-117ad921af6b">
+    </UnitTestResult>
+    <UnitTestResult executionId="b038d947-2893-48b4-8cbc-58da441618d9" testId="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe" testName="AddNewNodeTest" computerName="ABACZYK" duration="00:00:00.0001920" startTime="2013-01-29T13:39:53.7591327-05:00" endTime="2013-01-29T13:39:53.7611327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b038d947-2893-48b4-8cbc-58da441618d9">
+    </UnitTestResult>
+    <UnitTestResult executionId="e2da698d-2091-426a-8aa2-a709f798c2bd" testId="3cbfce5a-27e6-b41a-4c4c-bd048e8b7cbc" testName="RemoveNodeTest" computerName="ABACZYK" duration="00:00:00.0006457" startTime="2013-01-29T13:39:53.7631327-05:00" endTime="2013-01-29T13:39:53.7651327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e2da698d-2091-426a-8aa2-a709f798c2bd">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at CircularLinkedListTest.CircularLinkedListTest.RemoveNodeTest() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\CircularLinkedListTest.cs:line 138
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b1313dbf-4ca1-41db-b91c-89ea3efcd4ce" testId="5bedd1c0-683d-7e54-e177-c1abaabe6e4a" testName="AddNodeTest" computerName="ABACZYK" duration="00:00:00.0006919" startTime="2013-01-29T13:39:53.7681327-05:00" endTime="2013-01-29T13:39:53.7701327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1313dbf-4ca1-41db-b91c-89ea3efcd4ce">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at CircularLinkedListTest.CircularLinkedListTest.AddNodeTest() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\CircularLinkedListTest.cs:line 97
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="947cba7a-6738-45e2-915a-185fe87410a7" testId="6f985394-6733-7a8a-f4eb-d40fd73efb3c" testName="PrintNodesTest" computerName="ABACZYK" duration="00:00:00.0006119" startTime="2013-01-29T13:39:53.7731327-05:00" endTime="2013-01-29T13:39:53.7761327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="947cba7a-6738-45e2-915a-185fe87410a7">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at CircularLinkedListTest.CircularLinkedListTest.PrintNodesTest() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\CircularLinkedListTest.cs:line 123
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="54026cdf-1415-42f2-b3b0-03dac0b4a83b" testId="74dcc197-f2d1-d2d5-adb4-2b8ee2d879ce" testName="CircularLinkedListConstructorTest" computerName="ABACZYK" duration="00:00:00.0006115" startTime="2013-01-29T13:39:53.7781327-05:00" endTime="2013-01-29T13:39:53.7811327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54026cdf-1415-42f2-b3b0-03dac0b4a83b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at CircularLinkedListTest.CircularLinkedListTest.CircularLinkedListConstructorTest() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\CircularLinkedListTest.cs:line 75
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ad0ca956-df55-4fc7-997a-49505c82ca3d" testId="9042428e-bcbd-7b38-798d-69432b9419e2" testName="FindNodesTest" computerName="ABACZYK" duration="00:00:00.0007004" startTime="2013-01-29T13:39:53.7841327-05:00" endTime="2013-01-29T13:39:53.7881327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad0ca956-df55-4fc7-997a-49505c82ca3d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at CircularLinkedListTest.CircularLinkedListTest.FindNodesTest() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\CircularLinkedListTest.cs:line 112
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8b8551e5-fe72-4a89-8477-c776098e1e0e" testId="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf" testName="SingleLinkedListConstructorTest1" computerName="ABACZYK" duration="00:00:00.0002262" startTime="2013-01-29T13:39:53.7901327-05:00" endTime="2013-01-29T13:39:53.7921327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b8551e5-fe72-4a89-8477-c776098e1e0e">
+    </UnitTestResult>
+    <UnitTestResult executionId="b813c1b6-da5b-4c7f-9bda-4418b10ec868" testId="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c" testName="SingleLinkedListConstructorTest" computerName="ABACZYK" duration="00:00:00.0002689" startTime="2013-01-29T13:39:53.7941327-05:00" endTime="2013-01-29T13:39:53.7961327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b813c1b6-da5b-4c7f-9bda-4418b10ec868">
+    </UnitTestResult>
+    <UnitTestResult executionId="1a383924-d175-4d48-8c9b-2e1a9786ff20" testId="fb0fc586-be16-4463-8126-15255a51b0a4" testName="FindNodeTest" computerName="ABACZYK" duration="00:00:00.0002959" startTime="2013-01-29T13:39:53.7981327-05:00" endTime="2013-01-29T13:39:53.8001327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a383924-d175-4d48-8c9b-2e1a9786ff20">
+    </UnitTestResult>
+  </Results>
+</TestRun>

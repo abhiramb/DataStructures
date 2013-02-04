@@ -1,0 +1,5 @@
+c:\users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\bin\Debug\LinkedLists.exe
+c:\users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\bin\Debug\LinkedLists.pdb
+c:\users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\obj\x86\Debug\LinkedLists.exe
+c:\users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\obj\x86\Debug\LinkedLists.pdb

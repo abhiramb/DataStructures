@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0dcabae9-c107-45ec-8f51-6490f6c31a66" name="ABaczyk@ABACZYK 2013-01-29 11:23:18" runUser="DCI\ABaczyk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="77597913-2622-4228-97d5-b11d46f6b770">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ABaczyk_ABACZYK 2013-01-29 11_23_18">
+      <DeploymentItem filename="C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\bin\Debug\LinkedLists.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-01-29T11:23:18.5381819-05:00" queuing="2013-01-29T11:23:18.5641819-05:00" start="2013-01-29T11:23:18.5691819-05:00" finish="2013-01-29T11:23:18.7861819-05:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="5" executed="5" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SingleLinkedListConstructorTest1" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf">
+      <Execution id="822a8164-3b29-4365-80c9-edeb75bc44ba" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SingleLinkedListConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="SingleLinkedListConstructorTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c">
+      <Execution id="da9874ce-f514-4b1a-8c24-43134b903ded" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SingleLinkedListConstructorTest" />
+    </UnitTest>
+    <UnitTest name="RemoveNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4">
+      <Execution id="13388881-b222-4e56-a194-e80287336e82" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveNodeTest" />
+    </UnitTest>
+    <UnitTest name="FindNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="fb0fc586-be16-4463-8126-15255a51b0a4">
+      <Execution id="2f0bea84-4f4a-47a4-bff0-e818e58f845e" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindNodeTest" />
+    </UnitTest>
+    <UnitTest name="AddNewNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe">
+      <Execution id="d4d6e9d9-b47e-4d6c-8a74-696d70eccda9" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddNewNodeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4" executionId="13388881-b222-4e56-a194-e80287336e82" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe" executionId="d4d6e9d9-b47e-4d6c-8a74-696d70eccda9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf" executionId="822a8164-3b29-4365-80c9-edeb75bc44ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c" executionId="da9874ce-f514-4b1a-8c24-43134b903ded" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb0fc586-be16-4463-8126-15255a51b0a4" executionId="2f0bea84-4f4a-47a4-bff0-e818e58f845e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="13388881-b222-4e56-a194-e80287336e82" testId="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4" testName="RemoveNodeTest" computerName="ABACZYK" duration="00:00:00.0172574" startTime="2013-01-29T11:23:18.5821819-05:00" endTime="2013-01-29T11:23:18.7581819-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="13388881-b222-4e56-a194-e80287336e82">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. A method that does not return a value cannot be verified.</Message>
+          <StackTrace>   at SingleLinkedListTest.SingleLinkedListTest.RemoveNodeTest() in C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\SingleLinkedListTest\SingleLinkedListTest.cs:line 126
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d4d6e9d9-b47e-4d6c-8a74-696d70eccda9" testId="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe" testName="AddNewNodeTest" computerName="ABACZYK" duration="00:00:00.0003459" startTime="2013-01-29T11:23:18.7601819-05:00" endTime="2013-01-29T11:23:18.7621819-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4d6e9d9-b47e-4d6c-8a74-696d70eccda9">
+    </UnitTestResult>
+    <UnitTestResult executionId="822a8164-3b29-4365-80c9-edeb75bc44ba" testId="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf" testName="SingleLinkedListConstructorTest1" computerName="ABACZYK" duration="00:00:00.0002245" startTime="2013-01-29T11:23:18.7641819-05:00" endTime="2013-01-29T11:23:18.7661819-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="822a8164-3b29-4365-80c9-edeb75bc44ba">
+    </UnitTestResult>
+    <UnitTestResult executionId="da9874ce-f514-4b1a-8c24-43134b903ded" testId="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c" testName="SingleLinkedListConstructorTest" computerName="ABACZYK" duration="00:00:00.0002749" startTime="2013-01-29T11:23:18.7681819-05:00" endTime="2013-01-29T11:23:18.7701819-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da9874ce-f514-4b1a-8c24-43134b903ded">
+    </UnitTestResult>
+    <UnitTestResult executionId="2f0bea84-4f4a-47a4-bff0-e818e58f845e" testId="fb0fc586-be16-4463-8126-15255a51b0a4" testName="FindNodeTest" computerName="ABACZYK" duration="00:00:00.0003185" startTime="2013-01-29T11:23:18.7721819-05:00" endTime="2013-01-29T11:23:18.7741819-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f0bea84-4f4a-47a4-bff0-e818e58f845e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

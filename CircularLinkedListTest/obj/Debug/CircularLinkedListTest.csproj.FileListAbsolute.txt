@@ -1,0 +1,7 @@
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\bin\Debug\CircularLinkedListTest.dll
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\bin\Debug\CircularLinkedListTest.pdb
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\bin\Debug\CircularLinkedList.exe
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\bin\Debug\CircularLinkedList.pdb
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\obj\Debug\CircularLinkedListTest.dll
+C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedListTest\obj\Debug\CircularLinkedListTest.pdb

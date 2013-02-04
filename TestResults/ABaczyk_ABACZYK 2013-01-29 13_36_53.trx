@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="70db6736-e7d5-4c98-b1aa-367039940ae0" name="ABaczyk@ABACZYK 2013-01-29 13:36:53" runUser="DCI\ABaczyk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="77597913-2622-4228-97d5-b11d46f6b770">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ABaczyk_ABACZYK 2013-01-29 13_36_53">
+      <DeploymentItem filename="C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\CircularLinkedList\bin\Debug\CircularLinkedList.exe" />
+      <DeploymentItem filename="C:\Users\abaczyk\documents\visual studio 2010\Projects\DataStructures\LinkedLists\bin\Debug\LinkedLists.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-01-29T13:36:53.7941327-05:00" queuing="2013-01-29T13:36:53.8451327-05:00" start="2013-01-29T13:36:53.8501327-05:00" finish="2013-01-29T13:36:54.0731327-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SingleLinkedListConstructorTest1" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf">
+      <Execution id="a0c2c242-6baf-436a-8958-b644bfa4c048" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SingleLinkedListConstructorTest1" />
+    </UnitTest>
+    <UnitTest name="SingleLinkedListConstructorTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c">
+      <Execution id="22ed0500-b816-4e57-98f7-07f3625858cf" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SingleLinkedListConstructorTest" />
+    </UnitTest>
+    <UnitTest name="RemoveNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4">
+      <Execution id="941ea0bb-c6e8-4511-9b28-8de5139e3a9a" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveNodeTest" />
+    </UnitTest>
+    <UnitTest name="FindNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="fb0fc586-be16-4463-8126-15255a51b0a4">
+      <Execution id="91086d4d-6f9f-49be-ab6e-f4771490b184" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindNodeTest" />
+    </UnitTest>
+    <UnitTest name="AddNewNodeTest" storage="c:\users\abaczyk\documents\visual studio 2010\projects\datastructures\singlelinkedlisttest\bin\debug\singlelinkedlisttest.dll" id="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe">
+      <Execution id="bd0288e1-01bd-48af-b729-bed516f7e0b5" />
+      <TestMethod codeBase="C:/Users/abaczyk/documents/visual studio 2010/Projects/DataStructures/SingleLinkedListTest/bin/Debug/SingleLinkedListTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SingleLinkedListTest.SingleLinkedListTest, SingleLinkedListTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddNewNodeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4" executionId="941ea0bb-c6e8-4511-9b28-8de5139e3a9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe" executionId="bd0288e1-01bd-48af-b729-bed516f7e0b5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf" executionId="a0c2c242-6baf-436a-8958-b644bfa4c048" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c" executionId="22ed0500-b816-4e57-98f7-07f3625858cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb0fc586-be16-4463-8126-15255a51b0a4" executionId="91086d4d-6f9f-49be-ab6e-f4771490b184" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="941ea0bb-c6e8-4511-9b28-8de5139e3a9a" testId="29b0ca97-3cb5-9d24-a8a0-1dc3f000abb4" testName="RemoveNodeTest" computerName="ABACZYK" duration="00:00:00.0125505" startTime="2013-01-29T13:36:53.8701327-05:00" endTime="2013-01-29T13:36:54.0421327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="941ea0bb-c6e8-4511-9b28-8de5139e3a9a">
+    </UnitTestResult>
+    <UnitTestResult executionId="bd0288e1-01bd-48af-b729-bed516f7e0b5" testId="3c4c63c0-8fc2-7b44-504a-8064f4eabbfe" testName="AddNewNodeTest" computerName="ABACZYK" duration="00:00:00.0001860" startTime="2013-01-29T13:36:54.0441327-05:00" endTime="2013-01-29T13:36:54.0471327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd0288e1-01bd-48af-b729-bed516f7e0b5">
+    </UnitTestResult>
+    <UnitTestResult executionId="a0c2c242-6baf-436a-8958-b644bfa4c048" testId="b4806e03-c1fd-80ca-c3e0-dd6108ff14cf" testName="SingleLinkedListConstructorTest1" computerName="ABACZYK" duration="00:00:00.0003049" startTime="2013-01-29T13:36:54.0491327-05:00" endTime="2013-01-29T13:36:54.0511327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0c2c242-6baf-436a-8958-b644bfa4c048">
+    </UnitTestResult>
+    <UnitTestResult executionId="22ed0500-b816-4e57-98f7-07f3625858cf" testId="c0ed2b7a-1002-ba1b-d79d-71c3e99ee85c" testName="SingleLinkedListConstructorTest" computerName="ABACZYK" duration="00:00:00.0002937" startTime="2013-01-29T13:36:54.0531327-05:00" endTime="2013-01-29T13:36:54.0551327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22ed0500-b816-4e57-98f7-07f3625858cf">
+    </UnitTestResult>
+    <UnitTestResult executionId="91086d4d-6f9f-49be-ab6e-f4771490b184" testId="fb0fc586-be16-4463-8126-15255a51b0a4" testName="FindNodeTest" computerName="ABACZYK" duration="00:00:00.0003339" startTime="2013-01-29T13:36:54.0571327-05:00" endTime="2013-01-29T13:36:54.0591327-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91086d4d-6f9f-49be-ab6e-f4771490b184">
+    </UnitTestResult>
+  </Results>
+</TestRun>
