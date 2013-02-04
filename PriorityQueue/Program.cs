@@ -9,6 +9,8 @@ namespace PriorityQueue
     {
         static void Main(string[] args)
         {
+            PriorityQueue queue = new PriorityQueue();
+
         }
     }
 }
