@@ -32,8 +32,22 @@ namespace PriorityQueue
             }
         }
 
-        public bool Enqueue()
+        public bool Enqueue(string name, Priority priority)
         {
+            Node node = new Node();
+            node.name = name;
+            node.priority = priority;
+
+            if (length == 0)
+            {
+                front.next = node;
+                rear.next = node;
+            }
+            else
+            {
+                
+            }
+
             length++;
             return true;
         }
