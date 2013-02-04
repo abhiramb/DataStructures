@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtStack", "ArtStack\ArtSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{45AC7B5A-4B2F-447B-858C-FC827518B86F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "PriorityQueue\PriorityQueue.csproj", "{9CB51D88-23C9-451C-94D9-C7ADB03C290F}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = DataStructures.vsmdi
@@ -105,6 +107,16 @@ Global
 		{45AC7B5A-4B2F-447B-858C-FC827518B86F}.Release|Mixed Platforms.Build.0 = Release|x86
 		{45AC7B5A-4B2F-447B-858C-FC827518B86F}.Release|x86.ActiveCfg = Release|x86
 		{45AC7B5A-4B2F-447B-858C-FC827518B86F}.Release|x86.Build.0 = Release|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Debug|x86.ActiveCfg = Debug|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Debug|x86.Build.0 = Debug|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Release|Any CPU.ActiveCfg = Release|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Release|x86.ActiveCfg = Release|x86
+		{9CB51D88-23C9-451C-94D9-C7ADB03C290F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

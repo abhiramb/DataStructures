@@ -3,3 +3,5 @@ C:\Users\abaczyk\Documents\Visual Studio 2010\Projects\DataStructures\ArtStack\b
 C:\Users\abaczyk\Documents\Visual Studio 2010\Projects\DataStructures\ArtStack\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\abaczyk\Documents\Visual Studio 2010\Projects\DataStructures\ArtStack\obj\x86\Debug\ArtStack.exe
 C:\Users\abaczyk\Documents\Visual Studio 2010\Projects\DataStructures\ArtStack\obj\x86\Debug\ArtStack.pdb
+C:\Users\abaczyk\Documents\GitHub\DataStructures\ArtStack\obj\x86\Debug\ArtStack.exe
+C:\Users\abaczyk\Documents\GitHub\DataStructures\ArtStack\obj\x86\Debug\ArtStack.pdb
