@@ -69,7 +69,21 @@ namespace PriorityQueue
             {
                 if (node.priority > rear.next.priority)
                 {
-                    Node cur = new Node();
+                    Node cur = rear.next;
+                    while (cur.next != null && node.priority > cur.next.priority)
+                    {
+                        cur = cur.next;
+                    }
+                    if (cur.next == null) //we've reached the front
+                    {
+                        cur.next = node;
+                        front.next = node;
+                    }
+                    else
+                    {
+                        node.next = cur.next;
+                        cur.next = node;
+                    }
                 }
                 else
                 {
@@ -77,14 +91,32 @@ namespace PriorityQueue
                     rear.next = node;
                 }
             }
-
             length++;
             return true;
         }
 
-        public string PeekAtFront()
+        public string PeekAtFrontName()
         {
-            return "";
+            if (front.next != null)
+            {
+                return front.next.name;
+            }
+            else
+            {
+                return "";
+            }
+        }
+
+        public int PeekAtFrontPriority()
+        {
+            if (front.next != null)
+            {
+                return (int)front.next.priority;
+            }
+            else
+            {
+                return -1;
+            }
         }
     }    
 }
