@@ -70,7 +70,6 @@ namespace Queues
             {
                 return "";
             }
-            
         }
 
         public string PeekAtFront()

@@ -18,17 +18,39 @@ namespace PriorityQueue
             length = 0;
         }
 
-        public bool Dequeue()
+        public string Dequeue()
         {
             if (length > 0)
             {
+                if (length > 1)
+                {
+                    string frontName = front.next.name;
+                    Node cur = rear.next;
 
-                length--;
-                return true;
+                    while (cur.next != front.next)
+                    {
+                        cur = cur.next;
+                    }
+
+                    front = new Node();
+                    cur.next = null;
+                    front.next = cur;
+                    cur = null;
+                    length--;
+                    return frontName;
+                }
+                else
+                {
+                    string frontName = front.next.name;
+                    front.next = null;
+                    rear.next = null;
+                    length--;
+                    return frontName;
+                }
             }
             else
             {
-                return false;
+                return "";
             }
         }
 
@@ -45,7 +67,15 @@ namespace PriorityQueue
             }
             else
             {
-                
+                if (node.priority > rear.next.priority)
+                {
+                    Node cur = new Node();
+                }
+                else
+                {
+                    node.next = rear.next;
+                    rear.next = node;
+                }
             }
 
             length++;
