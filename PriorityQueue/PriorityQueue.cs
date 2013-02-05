@@ -118,5 +118,10 @@ namespace PriorityQueue
                 return -1;
             }
         }
+
+        public int Length
+        {
+            get { return length; }
+        }
     }    
 }
